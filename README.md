@@ -10,3 +10,7 @@ The chatbot utilizes a hybrid approach to knowledge retrieval by integrating a g
 **Streamlit** is used for the frontend UI to provide an interactive interface for users to query the chatbot.
 
 
+![image](https://github.com/user-attachments/assets/000d707b-791a-4977-8e7f-ef483b4435ac)
+
+
+![image](https://github.com/user-attachments/assets/377a1ef9-5e39-40d5-9b6a-51849888996a)
