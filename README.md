@@ -14,5 +14,4 @@ The chatbot utilizes a hybrid approach to knowledge retrieval by integrating a g
 
 
       
-      
-          ![image](https://github.com/user-attachments/assets/377a1ef9-5e39-40d5-9b6a-51849888996a)
+   ![image](https://github.com/user-attachments/assets/377a1ef9-5e39-40d5-9b6a-51849888996a)
