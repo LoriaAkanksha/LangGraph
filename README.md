@@ -1,4 +1,5 @@
 # LangGraph
+   ![image](https://github.com/user-attachments/assets/377a1ef9-5e39-40d5-9b6a-51849888996a)   
 
 The chatbot utilizes a hybrid approach to knowledge retrieval by integrating a generative AI model to retrieve data from custom data and external data sources like Wikipedia.​It routes user queries either to a RAG-based retrieval process or performs a Wikipedia search to return the most relevant results.
 
@@ -14,4 +15,4 @@ The chatbot utilizes a hybrid approach to knowledge retrieval by integrating a g
 
 
       
-   ![image](https://github.com/user-attachments/assets/377a1ef9-5e39-40d5-9b6a-51849888996a)
+
